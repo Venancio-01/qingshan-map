@@ -5,7 +5,7 @@ qingshan-map是一个基于天地图的中国地理信息Web应用，集成了�
 
 ## 技术栈
 - 前端框架：React
-- 地图引擎：天地图 JavaScript API
+- 地图引擎：ECharts
 - 构建工具：Vite
 - 开发语言：TypeScript
 - 包管理器：pnpm
@@ -27,12 +27,6 @@ qingshan-map是一个基于天地图的中国地理信息Web应用，集成了�
    - 地理要素信息气泡展示
    - 支持关键词搜索
 
-## 技术栈
-- 前端框架：React
-- 地图引擎：天地图 JavaScript API
-- 样式框架：Ant Design
-- 构建工具：Vite
-- 开发语言：TypeScript
 
 ## 开发计划
 1. 第一阶段：基础框架搭建
